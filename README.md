@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jeffreyongley
-- 👀 I’m interested in developing my skills and applying the theory obtained through my education to real world applications.
-- 🌱 I’m currently working with C++, Python, and Javascript. My educational background is heavily in C++ due to CSUSB's curriculum. 
-- 💞️ I’m looking to collaborate on any projects that can help me learn how to collaborate on large projects on Github.
+- 👋 Hi, I’m @jeffreyongley, Im a software engineer with 3 years of industry experience.
+- 👀 I’m starting to finally use github for my personal work after using GitLab for years for work.
+- 🌱 Professionally I have worked with PHP, Javascript, and a bit of Python.
+- 🌱 I want to get better at my Javascript skills so I plan to use Github to create a few simple apps with React.
 
 <!---
 jeffreyongley/jeffreyongley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
